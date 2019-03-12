@@ -1,7 +1,7 @@
 .nav {
   font-family: 'Noto Serif', serif;
   font-weight: 700;
-  background-color: rgb(33,171,205);
+  background-color: rgb(155,221,255);
   text-align: center;
 }
 
@@ -21,4 +21,9 @@ a:link, a:visited {
   padding: 10px 20px;
   text-align: center;
   display: inline-block;
+}
+
+header {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
 }
