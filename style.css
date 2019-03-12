@@ -35,14 +35,17 @@ header {
   font-size: 1.5em;
 }
 
-.my-pic {
-  max-width: 100%;
-  height: auto;
-  border-radius: 20%;
-  text-align: center;
+#my-pic {
+  border-radius: 10px;
+  display: block;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body {
   background-color: rgb(104,204,255);
+  text-align: center;
 }
   
