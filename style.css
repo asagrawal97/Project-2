@@ -26,4 +26,11 @@ a:link, a:visited {
 header {
   text-align: center;
   font-family: Helvetica, sans-serif;
+  font-size: large;
+}
+
+.info {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 1.5em;
 }
