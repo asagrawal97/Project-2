@@ -92,6 +92,7 @@ video {
   font-size: 1.9em;
   text-align: center;
   padding-bottom: 10%;
+  position: relative;
 }
 
 .witch, .magic, .fever {
@@ -103,6 +104,7 @@ video {
   text-align: left;
   padding-bottom: 10%;
   padding-top: 2%;
+  position: relative;
 }
 
 
@@ -110,6 +112,7 @@ video {
   font-size: 2.2em;
 	font-family: 'Quattrocento Sans', sans-serif; 
   text-align: center;
+  position: relative;
 }
 
 a:hover, a:active {
